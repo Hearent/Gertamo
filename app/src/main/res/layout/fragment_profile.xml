@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/app_bar_dash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/app_bar"
+        android:text="@string/more_info_bar"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/app_bar_dash">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/more_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Informacje" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/myContest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Moje konkursy" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/lastContest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Zakończone konkursy" />
+    </com.google.android.material.tabs.TabLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:layout_below="@id/tabBar"
+        android:id="@+id/viewPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>

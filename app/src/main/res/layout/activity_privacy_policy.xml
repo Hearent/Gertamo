@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/app_bar_dash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/app_bar"
+        android:text="@string/privacy_policy"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/privacy_policy_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:gravity="center"
+                android:text="@string/privacy_policy_title"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:gravity="center"
+                android:text="@string/privacy_policy_par_1"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_1_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_margin="15dp"
+                android:text="@string/privacy_policy_par_1_content"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:gravity="center"
+                android:text="@string/privacy_policy_par_2"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_2_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_margin="15dp"
+                android:text="@string/privacy_policy_par_2_content"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:gravity="center"
+                android:text="@string/privacy_policy_par_3"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_3_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_margin="15dp"
+                android:text="@string/privacy_policy_par_3_content"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:gravity="center"
+                android:text="@string/privacy_policy_par_4"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_4_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_margin="15dp"
+                android:text="@string/privacy_policy_par_4_content"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:gravity="center"
+                android:text="@string/privacy_policy_par_5"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_5_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_margin="15dp"
+                android:text="@string/privacy_policy_par_5_content"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:gravity="center"
+                android:text="@string/privacy_policy_par_6"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_6_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_margin="15dp"
+                android:text="@string/privacy_policy_par_6_content"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:gravity="center"
+                android:text="@string/privacy_policy_par_7"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_7_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_margin="15dp"
+                android:text="@string/privacy_policy_par_7_content"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:gravity="center"
+                android:text="@string/privacy_policy_par_8"
+                android:textSize="19dp" />
+
+            <TextView
+                android:id="@+id/privacy_policy_par_8_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:text="@string/privacy_policy_par_8_content"
+                android:textSize="19dp" />
+            <TextView
+                android:id="@+id/privacy_policy_par_8_hyperlink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:text="@string/privacy_policy_par_8_hyperlink"
+                android:textSize="19dp" />
+            <TextView
+                android:id="@+id/privacy_policy_par_8_content_cd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:text="@string/privacy_policy_par_8_content_cd"
+                android:textSize="19dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

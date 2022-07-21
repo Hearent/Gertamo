@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/contest_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/browser_actions_bg_grey"
+        android:orientation="horizontal">
+    <TextView
+        android:id="@+id/contest_name_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"
+        android:text="Opis zdjęcia"
+        android:textSize="25dp"
+        android:textColor="@color/black" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/text_layout"
+        android:layout_below="@id/contest_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/browser_actions_bg_grey"
+        android:orientation="horizontal">
+    <TextView
+        android:id="@+id/DText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="Zdjecie"
+        android:textSize="25dp"
+        android:layout_below="@id/contest_name_tv"
+        android:textColor="@color/black"
+
+        tools:ignore="InvalidId" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/image_layout"
+        android:layout_below="@id/text_layout"
+        android:layout_width="match_parent"
+        android:background="@color/browser_actions_bg_grey"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/DImage"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

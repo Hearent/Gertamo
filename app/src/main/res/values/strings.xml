@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gertamo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="email">Email</string>
+    <string name="password">Hasło</string>
+    <string name="data" translatable="false">Data Urodzenia</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="register_bar" translatable="false">Rejestracja</string>
+    <string name="login">Zaloguj</string>
+    <string name="b_register">Zarejestruj się</string>
+    <string name="forgot_password" translatable="false">Zapomniałeś hasła? <font color='#0000EE'><u>Kliknij tutaj</u></font></string>
+    <string name="home">Strona główna</string>
+    <string name="contest">Weź udział w konkursie</string>
+    <string name="take_part">Weź udział</string>
+    <string name="contest_bar" translatable="false">Konkursy</string>
+    <string name="dash_bar" translatable="false">Strona główna</string>
+    <string name="more_info_bar" translatable="false">Więcej info</string>
+    <string name="account">Więcej info</string>
+    <string name="logout">Wyloguj</string>
+    <string name="change_lang">Zmień język</string>
+    <string name="info_text" translatable="false">Aplikacja gertamo jest na wczesnym etapie rozwoju i przyda nam się Twoja opinia :)</string>
+    <string name="send_btn" translatable="false">Wyślij opinię</string>
+    <string name="contact" translatable="false">Kontakt</string>
+    <string name="cooperation" translatable="false">Współpraca</string>
+    <string name="pass_reminder_txt" translatable="false">Wpisz swój adres e-mail</string>
+    <string name="pass_reminder_btn" translatable="false">Przypomnij hasło</string>
+    <string name="regulations" translatable="false">Regulamin</string>
+    <string name="privacy_policy" translatable="false">Polityka prywatności</string>
+    <string name="upload" translatable="false">ZAŁADUJ ZDJĘCIE</string>
+    <string name="camera" translatable="false">APARAT</string>
+    <string name="take_photo" translatable="false">ZRÓB ZDJĘCIE</string>
+    <string name="accept" translatable="false">Akceptuję </string>
+    <string name="i" translatable="false"> i </string>
+    <string name="reg" translatable="false"><font color='#0000EE'> <u>Regulamin</u> </font></string>
+    <string name="pol" translatable="false"><font color='#0000EE'> <u>Politykę Prywatności</u> </font></string>
+
+
+    <string name="regulation_title" translatable="false"><b>REGULAMIN APLIKACJI MOBILNEJ „GERTAMO”</b></string>
+    <string name="regulation_par_1" translatable="false"><b>§ 1.\nPostanowienia ogólne</b></string>
+    <string name="regulation_par_1_content" translatable="false">
+        <b>1.</b> Niniejszy regulamin \n(dalej: <b>„Regulamin”</b>) określa zasady, warunki i zakres korzystania z aplikacji mobilnej Gertamo przeznaczonej na urządzenia mobilne z systemem operacyjnym iOS lub Android \n(dalej: <b>„Aplikacja”</b>) i stanowi regulamin w rozumieniu art. 8 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną oraz odnosi się do wszystkich stosunków pomiędzy Użytkownikiem, a Operatorem Aplikacji.\n
+        <b>2.</b> Właścicielem i operatorem Aplikacji,\na także usługodawcą świadczonych\nza jej pośrednictwem usług, jest firma Gertamo Mateusz Stasicki z siedzibą w Ciosmy 51, 23-400 Biłgoraj, NIP:9182178925 \n(dalej: <b>„Operator”</b>).\n
+        <b>3.</b> Użytkownikiem Aplikacji w rozumieniu Regulaminu jest osoba fizyczna,\nktóra poprzez Aplikację zainstalowaną na urządzeniu mobilnym korzysta z oferowanych przez Aplikację funkcjonalności (dalej: <b>„Użytkownik”</b>).\n
+        <b>4.</b> Usługi świadczone za pośrednictwem Aplikacji polegają w szczególności na:\n
+        \u0020\u0020\u0020\u0020<b>a.</b>	organizowaniu konkursów\nna zasadach określonych każdorazowo\nw regulaminie konkursu;\n
+        \u0020\u0020\u0020\u0020<b>b.</b>	publikowaniu zdjęć, grafik\nlub obrazów cyfrowych (dalej: <b>“Praca”</b>) przez Użytkowników w ramach konkursów organizowanych przez Operatora;\n
+        \u0020\u0020\u0020\u0020<b>c.</b>	ocenianiu przesłanych Prac przez pozostałych Użytkowników Aplikacji\ni wyłanianiu na tej podstawie laureatów;\n
+        <b>5.</b> Aplikacja możliwa jest do pobrania\nze sklepu internetowego Google Play\n(dla systemu Android).\n
+        <b>6.</b> Z chwilą pobrania i zainstalowania Aplikacji na urządzeniu mobilnym Użytkownika następuje zawarcie przez niego z Operatorem umowy o świadczenie usług drogą elektroniczną w ramach korzystania z Aplikacji.\n
+        <b>7.</b> Pobieranie Aplikacji ze sklepu wskazanego w §1 pkt 5 Regulaminu, jak również korzystanie z oferowanych za jej pośrednictwem podstawowych usług jest bezpłatne. Operator dopuszcza możliwość wprowadzenia odpłatnych, dodatkowych funkcjonalności przy dokonywaniu kolejnych aktualizacji Aplikacji. Odpłatne funkcjonalności zostaną w sposób wyraźny oznaczone, tak aby Użytkownik miał pełną wiedzę\nna temat wysokości kosztów poniesionych w związku z korzystaniem\nz odpłatnych funkcjonalności Aplikacji.\n
+        <b>8.</b> Koszty transmisji danych wymaganych do pobrania, instalacji, uruchomienia i korzystania z Aplikacji pokrywają jej Użytkownicy we własnym zakresie, na podstawie umów zawartych z operatorami telekomunikacyjnymi lub innymi dostawcami usług internetowych. Użytkownik ponosi odpowiedzialność za jakąkolwiek odpłatność z tytułu wykorzystania transmisji danych, niezbędnego do korzystania z Aplikacji. Operator zaleca Użytkownikom Aplikacji korzystanie z aplikacji lub funkcji systemu operacyjnego polegających na pomiarze ilości przesyłanych danych.\n
+        <b>9.</b> Aplikacja oraz wszelkie zawarte w niej materiały i informacje oraz układ prezentowanych w ramach Aplikacji treści, a także logotypy, elementy graficzne i znaki towarowe, stanowią przedmiot praw wyłącznych Operatora lub jego partnerów biznesowych i podlegają ochronie prawnej.
+    </string>
+    <string name="regulation_par_2" translatable="false"><b>§ 2.\nWymagania techniczne i zasady dostępu do aplikacji</b></string>
+    <string name="regulation_par_2_content" translatable="false">
+        <b>1.</b>	Aplikacja dostępna jest dla wszystkich osób korzystających z urządzeń mobilnych, które to urządzenia spełniają wskazane poniżej wymagania techniczne, i na które ww. osoby pobiorą Aplikację z odpowiedniego sklepu z aplikacjami i prawidłowo ją uruchomią.\n
+        <b>2.</b>	Urządzenie mobilne Użytkownika, na którym ma zostać uruchomiona Aplikacja, powinno spełniać następujące wymagania techniczne dotyczące systemu operacyjnego:\n
+        \u0020\u0020\u0020\u0020<b>a.</b>	dla wersji Aplikacji pobranej ze sklepu Google Play - Android w wersji 6.0 (lub nowszej).\n
+        <b>3.</b>	Pobranie i zainstalowanie Aplikacji z innych źródeł niż wskazane w §1 pkt 5 stanowi naruszenie Regulaminu. Powyższy zapis nie dotyczy urządzeń mobilnych Użytkowników, na których aplikacja była preinstalowana fabrycznie, a Operator wyraził na to zgodę.\n
+        <b>4.</b>	Do uruchomienia i w pełni prawidłowego działania Aplikacji niezbędne jest aktywowanie następujących funkcji Urządzenia:\n
+        \u0020\u0020\u0020\u0020<b>a.</b>	aktywne połączenie internetowe\n(za pomocą transmisji danych lub Wi-FI)\n
+        \u0020\u0020\u0020\u0020<b>b.</b>	aktywne działanie aparatu\n
+        \u0020\u0020\u0020\u0020<b>c.</b>	dostęp do galerii zdjęć Użytkownika\n
+        <b>5.</b>	Aby korzystać z funkcjonalności Aplikacji Użytkownik powinien dokonać uprzedniej rejestracji za pośrednictwem Aplikacji
+    </string>
+    <string name="regulation_par_3" translatable="false"><b>§ 3.\nRejestracja użytkownika</b></string>
+    <string name="regulation_par_3_content" translatable="false">
+        <b>1.</b>	W trakcie pierwszego uruchomienia Aplikacji Użytkownik zobowiązany jest przejść proces rejestracji, polegającej na założeniu indywidualnego konta Użytkownika (dalej: <b>„Rejestracja”</b>).\n
+        <b>2.</b>	Do dokonania Rejestracji wymagane jest podanie przez Użytkownika następujących danych:\n
+        \u0020\u0020\u0020\u0020<b>a.</b>	adres e-mail;\n
+        \u0020\u0020\u0020\u0020<b>b.</b>	hasło;\n
+        \u0020\u0020\u0020\u0020<b>c.</b>	powtórzone hasło;\n
+        \u0020\u0020\u0020\u0020<b>d.</b>	rok urodzenia;\n
+        \u0020\u0020\u0020\u0020<b>e.</b>	płeć (opcjonalnie);\n
+        \u0020\u0020\u0020\u0020<b>f.</b>	potwierdzenie przez Użytkownika, że zapoznał się z Regulaminem i Polityką prywatności i akceptuję ich treści;\n
+        \u0020\u0020\u0020\u0020<b>g.</b>	potwierdzenie przez Użytkownika że nie jest robotem;\n
+        <b>3.</b>	Na podany przez Użytkownika podczas Rejestracji adres e-mail zostanie wysłana wiadomość z linkiem aktywacyjnym, potwierdzającym zakończenie procesu Rejestracji. Użytkownik zobowiązany jest kliknąć w link aktywacyjny lub skopiować go do paska adresu swojej przeglądarki internetowej, a następnie potwierdzić przyciskiem „Enter”. Następnie w przeglądarce internetowej wyświetli się potwierdzenie dokończenia procesu Rejestracji, a Użytkownik będzie mógł zalogować się do Aplikacji.\n
+        <b>4.</b>	Uruchomienie i zalogowanie się do Aplikacji (lub posiadanie Aplikacji uruchomionej w tle) jest konieczne dla korzystania z funkcjonalności Aplikacji.\n
+        <b>5.</b>	Użytkownikowi przysługuje prawo edytowania swoich danych podanych podczas Rejestracji. Edycja danych oraz zmiana hasła możliwa jest za pośrednictwem Aplikacji lub poprzez kontakt na adres: support@gertamo.pl. W treści e-maila należy podać jakie dane Użytkownik chce zmienić. Wiadomość e-mail Użytkownik zobowiązany jest wysłać z aktualnego adresu do którego przypisane jest konto - w innym przypadku prośba o zmianę swoich danych nie będzie rozpatrywana.\n
+        <b>6.</b>	W trakcie Rejestracji, jak również w związku z korzystaniem z Aplikacji, Użytkownik zobowiązany jest do:\n
+        \u0020\u0020\u0020\u0020<b>a.</b>	podawania danych zgodnych z prawdą, dokładnych i aktualnych oraz niewprowadzających w błąd;\n
+        \u0020\u0020\u0020\u0020<b>b.</b>	aktualizacji danych podanych podczas Rejestracji w przypadku ich późniejszej zmiany; aktualizacji danych dokonuje się w sposób wskazany w §3 pkt 5;\n
+        \u0020\u0020\u0020\u0020<b>c.</b>	zachowania w tajemnicy hasła do logowania w Aplikacji oraz nieudostępniania go innym osobom.\n
+        <b>7.</b>	Operator może rozszerzyć formularz rejestracyjny o dodatkowe pola, których wypełnienie przez Użytkownika jest dobrowolne (dane opcjonalne) i nie ma wpływu na pozytywne zakończenie procesu Rejestracji.\n
+        <b>8.</b>	Użytkownik ponosi wyłączną odpowiedzialność za niezgodność podanych przez siebie danych, jak również za ujawnienie przez niego osobom trzecim hasła do logowania w Aplikacji.\n
+        <b>9.</b>	Operator informuje, że nie weryfikuje w żaden sposób tożsamości Użytkowników podczas ich Rejestracji. W przypadku uzasadnionych wątpliwości co do prawdziwości danych podanych przez Użytkownika podczas Rejestracji, Operator zastrzega sobie prawo ograniczenia Użytkownikowi możliwości korzystania z Aplikacji do czasu potwierdzenia przez Użytkownika, iż podał on prawdziwe dane. Operator wskaże Użytkownikowi sposób potwierdzenia danych za pomocą wiadomości przesłanej na adres email podany przez Użytkownika podczas Rejestracji.\n
+        <b>10.</b>	Rejestracja w Aplikacji jest jednoznaczna z akceptacją treści Regulaminu przez Użytkownika oraz zawarciem umowy świadczenia usług drogą elektroniczną pomiędzy Operatorem a Użytkownikiem, zgodnie z zasadami określonymi w niniejszym Regulaminie.
+    </string>
+    <string name="regulation_par_4" translatable="false"><b>§ 4.\nZasady korzystania z Aplikacji</b></string>
+    <string name="regulation_par_4_content" translatable="false">
+        <b>1.</b>	Użytkownicy są zobowiązani do korzystania z Aplikacji w sposób zgodny z obowiązującym prawem, Regulaminem i regulaminami sklepów, z których Aplikacja została pobrana, a także z zasadami współżycia społecznego, w tym ogólnymi zasadami korzystania z Internetu i aplikacji mobilnych.\n
+        <b>2.</b>	Użytkownicy są zobowiązani w szczególności do:\n
+        \u0020\u0020\u0020\u0020<b>a.</b>	korzystania z Aplikacji w sposób nie zakłócający jej funkcjonowania;\n
+        \u0020\u0020\u0020\u0020<b>b.</b>	korzystania z Aplikacji w sposób nieuciążliwy dla innych użytkowników oraz Operatora, z poszanowaniem dóbr osobistych osób trzecich i wszelkich innych przysługującym im praw;\n
+        \u0020\u0020\u0020\u0020<b>c.</b>	korzystania z wszelkich informacji i materiałów udostępnionych za pośrednictwem Aplikacji jedynie w zakresie dozwolonego użytku.\n
+        <b>3.</b>	Użytkownicy są zobowiązani niezwłocznie powiadomić Operatora o każdym przypadku naruszenia praw w związku z korzystaniem z Aplikacji.\n
+        <b>4.</b>	Użytkownicy dla umożliwienia poprawnego korzystania z Aplikacji powinni zaakceptować przyjmowanie powiadomień typu „push” w zakresie usług świadczonych za pomocą Aplikacji wymienionych \nw §1 pkt 5 Regulaminu.
+    </string>
+    <string name="regulation_par_5" translatable="false"><b>§ 5.\nPrawa i obowiązki Operatora</b></string>
+    <string name="regulation_par_5_content" translatable="false">
+        <b>1.</b>	Operator prowadzi bieżący nadzór nad technicznym funkcjonowaniem Aplikacji, starając się zapewnić poprawność jej działania.\n
+        <b>2.</b>	Użytkownik korzysta z Aplikacji dobrowolnie, na własną odpowiedzialność i powinien zapewnić możliwość poprawnego funkcjonowania Aplikacji w zakresie, w jakim jest to zależne od Użytkownika (np. prawidłowe funkcjonowania urządzenia mobilnego, stosowanie ustawień umożliwiających odbieranie bieżących powiadomień z Aplikacji itp.). Za działania usług, aplikacji i serwisów internetowych innych niż Aplikacja odpowiedzialność ponoszą ich dostawcy.\n
+        <b>3.</b>	Operator nie ponosi odpowiedzialności za:\n
+        \u0020\u0020\u0020\u0020<b>a.</b>	ograniczenia lub problemy techniczne w systemach teleinformatycznych, z których korzystają urządzenia mobilne Użytkowników, a które uniemożliwiają lub ograniczają użytkownikom korzystanie z Aplikacji i oferowanych za jej pośrednictwem usług.\n
+        \u0020\u0020\u0020\u0020<b>b.</b>	funkcjonowaniem Aplikacji w szczególności zakłóceniem dostępności wszystkich funkcji Aplikacji bądź ich błędnym działaniem.\n
+        \u0020\u0020\u0020\u0020<b>c.</b>	naruszenie przez Użytkownika praw osób trzecich.\n
+        <b>4.</b>	Operator nie gwarantuje niezakłóconego dostępu do Aplikacji oraz nie zapewnia stałej dostępności wszystkich funkcji Aplikacji i ich bezbłędnego działania.\n
+        <b>5.</b>	Operator ma prawo czasowo zawiesić działanie Aplikacji, celem przeprowadzenia konserwacji technicznej Aplikacji, dokonania zmian w działaniu Aplikacji, bądź zapobieganiu ewentualnym szkodom.
+    </string>
+    <string name="regulation_par_6" translatable="false"><b>§ 6.\nZasady korzystania z Aplikacji</b></string>
+    <string name="regulation_par_6_content" translatable="false">
+        <b>1.</b>	Użytkownicy mogą w dowolnym czasie zaprzestać korzystania z Aplikacji, w szczególności wówczas, gdy nie zaakceptują zmian wprowadzonych w Regulaminie, Polityce Prywatności lub aktualizacji Aplikacji. Zaprzestanie korzystania z Aplikacji wymaga jej usunięcia z urządzenia mobilnego.\n
+        <b>2.</b>	W przypadku stwierdzenia, że użytkownik dopuszcza się działań zabronionych prawem lub Regulaminem, albo naruszających zasady współżycia społecznego lub godzących w usprawiedliwiony interes Operatora, a w szczególności jego dobre imię, Operator może podjąć wszelkie prawem dozwolone działania, w tym ograniczyć możliwość korzystania przez użytkownika z Aplikacji i świadczonych za jej pośrednictwem usług.
+    </string>
+    <string name="regulation_par_7" translatable="false"><b>§ 7.\nPolityka prywatności</b></string>
+    <string name="regulation_par_7_content" translatable="false">
+        <b>1.</b>	Administratorem danych osobowych Użytkowników Aplikacji jest firma Gertamo Mateusz Stasicki z siedzibą w Ciosmy 51, 23-400 Biłgoraj, NIP:9182178925.\n
+        <b>2.</b>	Operator zapewnia wszystkim zarejestrowanym Użytkownikom realizację uprawnień wynikających z ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, w szczególności prawo wglądu do własnych danych osobowych, prawo żądania aktualizacji i usunięcia danych osobowych oraz prawo wniesienia sprzeciwu w przypadkach określonych w przepisach tej ustawy.\n
+        <b>3.</b>	Dane osobowe zbierane są w celu umożliwienia Użytkownikom korzystania z Aplikacji. Dane osobowe Użytkowników mogą ponadto służyć do weryfikacji, czy osoba rejestrująca spełnia wymagane przez Regulamin i przepisy prawne warunki.\n
+        <b>4.</b>	Podanie danych podczas Rejestracji jest dobrowolne, jednak niezbędne do prawidłowego korzystania Aplikacji.\n
+        <b>5.</b>	Operator informuje, że w celu realizacji usługi dostępu niezbędne jest przetwarzanie danych eksploatacyjnych obejmujących datę oraz czas logowania.\n
+        <b>6.</b>	Anonimowe dane dotyczące aktywności Użytkownika w Aplikacji, mogą być przetwarzane przez Operatora wyłącznie do celów statystycznych.
+    </string>
+    <string name="regulation_par_8" translatable="false"><b>§ 8.\nReklamacje</b></string>
+    <string name="regulation_par_8_content" translatable="false">
+        <b>1.</b>	Wszelkie reklamacje związane z korzystaniem z Aplikacji oraz ze świadczeniem za jej pośrednictwem usług, a także pytania dotyczące korzystania z Aplikacji należy kierować do Operatora na adres poczty elektronicznej pod adresem: support@gertamo.pl\n
+        <b>2.</b>	Reklamacja powinna zawierać w swej treści: adres e-mail Użytkownika (podany przy Rejestracji), nazwę i model urządzenia mobilnego, aktualną wersję systemu teleinformatycznego zainstalowanego na urządzeniu mobilnym, jak również dokładny opis i wskazanie przyczyny reklamacji. Wiadomość e-mail Użytkownik zobowiązany jest wysłać z aktualnego adresu do którego przypisane jest konto - w innym przypadku reklamacja nie będzie rozpatrywana.\n
+        <b>3.</b>	W terminie 14 dni od dnia otrzymania reklamacji Operator rozpatrzy reklamację oraz poinformuje Użytkownika, za pomocą poczty elektronicznej, o sposobie jej rozpatrzenia. W sytuacji, gdy podane w reklamacji dane lub informacje wymagają uzupełnienia, Operator zwróci się przed rozpatrzeniem reklamacji do Użytkownika o jej uzupełnienie. Czas udzielania dodatkowych wyjaśnień przez Użytkownika przedłuża okres rozpatrywania reklamacji.
+    </string>
+    <string name="regulation_par_9" translatable="false"><b>§ 9.\nPrawa autorskie</b></string>
+    <string name="regulation_par_9_content" translatable="false">
+        <b>1.</b>	Korzystanie z treści publikowanych w Aplikacji nie oznacza nabycia przez Użytkownika jakichkolwiek praw autorskich. Użytkownik może korzystać z tych treści jedynie w zakresie dozwolonym w Ustawie o prawie autorskim i prawach pokrewnych.\n
+        <b>2.</b>	Żadna część, jak i całość treści, z których Użytkownik korzystał, nie może być powielana i rozpowszechniana, w jakiejkolwiek formie i w jakikolwiek inny sposób (elektroniczny lub mechaniczny), włącznie z kopiowaniem i zamieszczaniem w internecie. Użycie lub wykorzystanie treści w całości lub w części, bez pisemnej zgody Operatora jest zabronione.
+    </string>
+    <string name="regulation_par_10" translatable="false"><b>§ 10.\nPostanowienia końcowe</b></string>
+    <string name="regulation_par_10_content" translatable="false">
+        <b>1.</b>	W sprawach nieuregulowanych w Regulaminie zastosowanie mają odpowiednie przepisy powszechnie obowiązującego prawa, w tym zwłaszcza Kodeksu cywilnego oraz ustawy o świadczeniu usług drogą elektroniczną.\n
+        <b>2.</b>	Regulamin dostępny jest za pośrednictwem Aplikacji oraz na stronie internetowej:</string>
+    <string name="regulation_par_10_hyperlink" translatable="false"><a href="https://drive.google.com/file/d/1wO8VO4wJqNiNhzFdl-qD8yLNyO3ypFM8/view?usp=sharing"> Regulamin </a></string>
+    <string name="regulation_par_10_content_cd" translatable="false">
+        <b>3.</b>	Operator zastrzega sobie prawo do zmiany Regulaminu w dowolnym czasie. O zmianach Regulaminu Użytkownicy zostaną poinformowani przynajmniej z 7-dniowym wyprzedzeniem na adresy e-mail podane przez nich przy Rejestracji, a także przy pierwszym uruchomieniu Aplikacji po zmianie Regulaminu. Zmiany obowiązują od momentu wskazanego w zawiadomieniu o zmianie Regulaminu (który nie może nastąpić wcześniej niż w terminie 7 dni). Zmiany uważane są za zaakceptowane przez Użytkownika z momentem dalszego korzystania przez niego z Aplikacji po wejściu zmian w życie.\n
+        <b>4.</b>	Wszelkie spory powstałe na tle niniejszej Regulaminu lub Polityki Prywatności będą rozstrzygane w sposób polubowny. W sytuacji, gdy osiągnięcie porozumienia pomiędzy Operatorem a Użytkownikiem na drodze polubownego rozstrzygnięcia sporu nie będzie możliwe, sprawę rozstrzygał będzie sąd powszechny właściwy dla siedziby Operatora.\n
+        <b>5.</b>	Regulamin obowiązuje od dnia 02 listopada 2021 roku.
+    </string>
+
+
+    <string name="privacy_policy_title" translatable="false"><b>POLITYKA PRYWATNOŚCI APLIKACJI MOBILNEJ “GERTAMO”</b></string>
+    <string name="privacy_policy_par_1" translatable="false"><b>§ 1.\nPostanowienia ogólne</b></string>
+    <string name="privacy_policy_par_1_content" translatable="false">
+        <b>1.</b> Niniejsza Polityka Prywatności (zwana dalej <b>„Polityką Prywatności”</b>) określa sposób zbierania, przetwarzania i przechowywania danych osobowych koniecznych do realizacji usług świadczonych za pośrednictwem aplikacji mobilnej (zwanej dalej <b>„Aplikacją</b>) przez firmę Gertamo Mateusz Stasicki.\n
+        <b>2.</b> Użytkownik przyjmuje do wiadomości, że Administratorem danych osobowych jest firma Gertamo Mateusz Stasicki, z siedzibą Ciosmy 51, 23-400 Biłgoraj, NIP:9182178925 (zwana dalej <b>„Administratorem”</b>).\n
+        <b>3.</b> Użytkownikiem jest każda osoba fizyczna korzystająca z usług świadczonych za pośrednictwem Aplikacji (zwana dalej <b>“Użytkownikiem”</b>).\n
+        <b>4.</b> Użytkownik przyjmuje do wiadomości, że udostępnianie przez niego danych osobowych jest dobrowolne. Udostępnianie Administratorowi danych osobowych przez Użytkownika nastąpi po zaakceptowaniu Polityki Prywatności podczas rejestracji w Aplikacji.\n
+        <b>5.</b> Dane osobowe, udostępniane przez Użytkownika, mogą być wykorzystywane przez Administratora do wysyłania Użytkownikowi informacji handlowych o nowościach i ofertach Administratora, wyłącznie w sytuacji, gdy Użytkownik wyraził zgodę na otrzymywanie tego typu informacji.\n
+        <b>6.</b> Niniejszym Użytkownik akceptuje zasady zawarte w Polityce Prywatności i w Regulaminie.
+    </string>
+    <string name="privacy_policy_par_2" translatable="false"><b>§ 2.\nDane zbierane automatycznie</b></string>
+    <string name="privacy_policy_par_2_content" translatable="false">
+        <b>1.</b> Administrator nie zbiera bez zgody Użytkownika danych osobowych, a wyłącznie dane nieposiadające takiego przymiotu, w szczególności dane demograficzne i dane dotyczące użytkowania Aplikacji. Zbieranie danych opisanych w zdaniu poprzednim odbywa się automatycznie (zwane dalej <b>„Dane zbierane automatycznie”</b>).\n
+        <b>2.</b> Dane zbierane automatycznie nie umożliwiają jednoznacznej identyfikacji Użytkownika.\n
+        <b>3.</b> Dane zbierane automatycznie mogą służyć Administratorowi do poprawy, jakości świadczonych usług, w szczególności w przypadku wystąpienia błędu Aplikacji.\n
+        <b>4.</b> Nie ma możliwości zmiany bądź usunięcia danych zbieranych automatycznie.
+    </string>
+    <string name="privacy_policy_par_3" translatable="false"><b>§ 3.\nDane zbierane w celu nawiązania kontaktu</b></string>
+    <string name="privacy_policy_par_3_content" translatable="false">
+        <b>1.</b> W przypadkach kontaktowania się Administratora z Użytkownikiem (w przypadku odebrania nagrody przez Użytkownika), określonych w Regulaminie dotyczącego każdego konkursu, Administrator będzie wymagał podania przez Użytkownika: imienia, nazwiska oraz numeru konta bankowego, (zwane dalej: <b>„Dane zbierane w celu nawiązania kontaktu”</b>).\n
+        <b>2.</b> Podanie przez Użytkownika Danych zbieranych w celu nawiązania kontaktu jest dobrowolne, jednakże stanowić będzie wyłączną podstawę przekazania nagrody konkursowej Użytkownikowi.\n
+        <b>3.</b> Dane zbierane w celu nawiązania kontaktu będą wykorzystywane wyłącznie w celu umożliwienia poprawnej, pełnej i sprawnej komunikacji pomiędzy Administratorem a Użytkownikiem.
+    </string>
+    <string name="privacy_policy_par_4" translatable="false"><b>§ 4.\nZbieranie danych osobowych</b></string>
+    <string name="privacy_policy_par_4_content" translatable="false">
+        <b>1.</b> W trakcie rejestracji w Aplikacji oraz podczas korzystania z Aplikacji, Administrator może domagać się podania przez Użytkownika danych osobowych, w celu realizacji usług świadczonych przez Administratora za pośrednictwem Aplikacji.\n
+        <b>2.</b> Dane osobowe Użytkownika zbierane w sposób określony w §4 pkt 1 Polityki Prywatności obejmuje m.in.: nazwisko, imię, adres e-mail, rok urodzenia, płeć, numer konta bankowego, informacje o koncie (hasło, indywidualne ID Użytkownika), dane z galerii zdjęć.\n
+        <b>3.</b> W celu zapewnienia poprawnego funkcjonowania Aplikacji oraz możliwość korzystania ze wszystkich jej funkcjonalności wymagany jest dostęp do aparatu oraz galerii zdjęć Użytkownika.
+    </string>
+    <string name="privacy_policy_par_5" translatable="false"><b>§ 5.\nPrzetwarzanie danych osobowych</b></string>
+    <string name="privacy_policy_par_5_content" translatable="false">
+        <b>1.</b> Zebrane dane osobowe Użytkownika będą wykorzystywane przez Administratora celem dostarczenia wybranej przez Użytkownika usługi.\n
+        <b>2.</b> Zbierane przez Administratora dane osobowe Użytkowników przetwarzane są w sposób zgodny z zakresem udzielonego przez Użytkownika zezwolenia lub na podstawie innych ustawowych przesłanek legalizujących przetwarzanie danych (przede wszystkim w celu realizacji usług oraz w prawnie usprawiedliwionym celu - marketingu bezpośrednim naszych produktów lub usług), zgodnie z wymogami prawa polskiego, w szczególności w zgodzie z ustawą z dnia 29 sierpnia 1997 r. o ochronie danych osobowych. Jako Administrator danych osobowych Użytkowników aplikacji mobilnych możemy w drodze umowy powierzać przetwarzanie tych danych innym podmiotom, w tym zagranicznym, w trybie art. 31 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych.\n
+        <b>3.</b> Administrator może jednak ujawnić współpracującym z nim podmiotom opracowanie zbiorcze czy ogólne zestawienia statystyczne. Zestawienia takie dotyczą głównie ogólnego użytkowania naszej usługi i nie zawierają danych pozwalających na identyfikację poszczególnych Użytkowników.\n
+        <b>4.</b> W związku z udostępnieniem Aplikacji Administrator przechowuje informacje w urządzeniu zewnętrznej bazie danych i posiada dostęp do informacji tam przechowywanych.\n
+        <b>5.</b> Działania, o których mowa w §5 pkt 4 wykonywane są w celu:\n
+        \u0020\u0020\u0020\u0020<b>a.</b> optymalizacji korzystania z aplikacji mobilnych,\n
+        \u0020\u0020\u0020\u0020<b>b.</b> tworzenia statystyk, które pomagają zrozumieć, w jaki sposób Użytkownicy korzystają z aplikacji mobilnych, co umożliwia ulepszanie ich struktury i zawartości,\n
+        \u0020\u0020\u0020\u0020<b>c.</b> tworzenia statystyk w celu ich prezentowania, w tym udostępniania partnerom Administratora.
+    </string>
+    <string name="privacy_policy_par_6" translatable="false"><b>§ 6.\nPrawa i obowiązki Administratora</b></string>
+    <string name="privacy_policy_par_6_content" translatable="false">
+        <b>1.</b> Administrator zobowiązuje się przetwarzać dane osobowe Użytkownika z zachowaniem wymogów Ustawy z dnia 29 sierpnia 1997 roku o ochronie danych osobowych oraz Ustawy z dnia 18 lipca 2002 roku o świadczeniu usług drogą elektroniczną.\n
+        <b>2.</b> Administrator gwarantuje zapewnienie odpowiednich środków technicznych i organizacyjnych zapewniających bezpieczeństwo przetwarzanych danych osobowych, w szczególności uniemożliwiających dostęp do nich nieuprawnionym osobom trzecim, lub ich przetwarzania z naruszeniem przepisów powszechnie obowiązującego prawa, zapobiegających utracie danych osobowych, ich uszkodzeniu lub zniszczeniu.\n
+        <b>3.</b> Dane osobowe Użytkownika będą przechowywane tak długo, jak będzie to konieczne do realizacji przez Administratora usług świadczonych za pośrednictwem Aplikacji.\n
+        <b>4.</b> Administrator ma prawo udostępniania danych osobowych Użytkownika: spółkom zależnym; stronom trzecim w przypadku sprzedaży im całości lub części swoich udziałów, lub w przypadku fuzji Administratora ze stroną trzecią, innym podmiotom trzecim, które zaakceptowały Politykę Prywatności, o ile Administrator zawarł z nim umowę konieczną do realizacji przez Administratora usług świadczonych za pośrednictwem Aplikacji; właściwym organom, które zgłoszą konieczność udostępnienia danych osobowych w oparciu o odpowiednie podstawy powszechnie obowiązującego prawa.
+    </string>
+    <string name="privacy_policy_par_7" translatable="false"><b>§ 7.\nPrawa i obowiązki Użytkownika</b></string>
+    <string name="privacy_policy_par_7_content" translatable="false">
+        <b>1.</b> Użytkownik ma prawo dostępu do swoich danych osobowych za pośrednictwem kontaktu z Administratorem poprzez wiadomość e-mail na adres support@gertamo.pl.\n
+        <b>2.</b> Użytkownik może w każdej chwili dokonać modyfikacji, zmiany, uzupełnienia lub usunięcia udostępnionych danych osobowych, za pośrednictwem narzędzi dostępnych w Aplikacji lub poprzez wiadomość e-mail na adres: support@gertamo.pl\n
+        <b>3.</b> W przypadku trwałego usunięcia przez Użytkownika danych osobowych, koniecznych do realizacji przez Administratora usług świadczonych za pośrednictwem Aplikacji, Użytkownik traci możliwość korzystania z tych usług.\n
+        <b>4.</b> Administrator zastrzega sobie prawo wprowadzenia zmian w Polityce Prywatności, o czym poinformuje Użytkownika za pośrednictwem Aplikacji lub poczty elektronicznej na adres e-mail podany podczas rejestracji. Jeżeli Użytkownik nie wyrazi zgody na wprowadzone zmiany, zobowiązany jest trwale usunąć Aplikację ze swojego urządzenia mobilnego.
+    </string>
+    <string name="privacy_policy_par_8" translatable="false"><b>§ 8.\nPostanowienia końcowe</b></string>
+    <string name="privacy_policy_par_8_content" translatable="false">
+        <b>1.</b> Administrator oświadcza, że postara się zapewnić Użytkownikom wysoki poziom bezpieczeństwa w zakresie korzystania z Aplikacji, nie ma jednak wpływu na zagwarantowanie pełnego bezpieczeństwa transmisji przez Internet. Wszystkie zdarzenia mające wpływ na bezpieczeństwo przekazu informacji należy zgłaszać na adres: support@gertamo.pl.\n
+        <b>2.</b> Polityka Prywatności dostępna jest za pośrednictwem aplikacji oraz na stronie internetowej:</string>
+    <string name="privacy_policy_par_8_hyperlink" translatable="false"><a href="https://drive.google.com/file/d/1iKJBt-I5Fa9R3pFK03gYQIQ4Tw9mw8C-/view?usp=sharing"> Politykę prywatności</a></string>
+    <string name="privacy_policy_par_8_content_cd" translatable="false">
+        <b>3.</b> Polityka Prywatności obowiązuje od dnia 02 listopada 2021 roku.
+    </string>
+
+
+    <string name="regulation_contest_title" translatable="false"><b>REGULAMIN DLA UCZESTNIKÓW KONKURSU</b></string>
+    <string name="regulation_contest_par_1" translatable="false"><b>§ 1.\nPostanowienia ogólne</b></string>
+    <string name="regulation_contest_par_1_content" translatable="false">
+        <b>1.</b> Organizatorem konkursu (<b>“Konkurs”</b>) jest Nazwa firmy z siedzibą w adres siedziby (<b>“Organizator”</b>).\n
+        <b>2.</b> Niniejszy regulamin (<b>“Regulamin”</b>) jest wiążący dla Organizatora oraz Uczestników. Reguluje on zasady\ni warunki uczestnictwa w Konkursie,\njak również prawa i obowiązki Organizatora oraz Uczestników Konkursu.\n
+        <b>3.</b> Uczestnik przystępując do Konkursu potwierdza, że zapoznał się i akceptuje wszystkie postanowienia zawarte\nw Regulaminie. Uczestnik zobowiązuje się do przestrzegania określonych w nim zasad, jak również potwierdza, iż spełnia wszystkie warunki, które uprawniają go do udziału w Konkursie. Uczestnik, który nie spełni warunków określonych w Regulaminie, traci prawo do udziału\nw Konkursie oraz ewentualnej Nagrody.\n
+        <b>4.</b> Konkurs zostanie przeprowadzony wyłącznie w aplikacji mobilnej (<b>“Aplikacja”</b>) “Gertamo”,\nktórej właścicielem jest Organizator.\n
+        <b>5.</b> Konkurs nie jest loterią promocyjną\nw rozumieniu Art. 2 ust. 1 ustawy o grach hazardowych z dnia\n19 listopada 2009 r. (t.j. Dz.U. z 2016 r.\nnr 471 z późn. zm.) i nie podlega regułom zawartym w ww. ustawie.
+    </string>
+    <string name="regulation_contest_par_2" translatable="false"><b>§ 2.\nWarunki i zasady uczestnictwa w Konkursie</b></string>
+    <string name="regulation_contest_par_2_content" translatable="false">
+        <b>1.</b> Uczestnikiem Konkursu (<b>“Uczestnik”</b>) może być każda osoba fizyczna,\nktóra jednocześnie:\n
+        \u0020\u0020\u0020\u0020<b>a.</b> ukończyła osiemnaście (18) lat\ni posiada pełną zdolność do czynności prawnych lub ukończyła trzynaście (13) lat i posiada zgodę swojego opiekuna prawnego na uczestnictwo w Konkursie,\n
+        \u0020\u0020\u0020\u0020<b>b.</b> zapoznała się z brzmieniem regulaminu i zaakceptowała jego treść.\n
+        <b>2.</b> Warunkiem uczestnictwa w Konkursie jest łącznie spełnienie następujących warunków:\n
+        \u0020\u0020\u0020\u0020<b>a.</b> zapoznanie i zaakceptowanie Regulaminu Konkursu dostępnego\nw aplikacji mobilnej Gertamo,\n
+        \u0020\u0020\u0020\u0020<b>b.</b> spełnienie warunków podanych\nw §2 pkt 1.\n
+        <b>3.</b> Uczestnictwo w Konkursie ma charakter dobrowolny i nieodpłatny.
+    </string>
+    <string name="regulation_contest_par_3" translatable="false"><b>§ 3.\nPrzebieg Konkursu</b></string>
+    <string name="regulation_contest_par_3_content" translatable="false">
+        <b>1.</b> Konkurs rozpoczyna się z chwilą jego opublikowania w Aplikacji przez Organizatora i kończy się po upływie dwudziestu czterech (24) godzin od daty jego opublikowania.\n
+        <b>2.</b> Uczestnik, aby wziąć udział\nw Konkursie, powinien w trakcie jego trwania przesłać zdjęcie konkursowe zgodne z Zasadami konkursu (<b>“Zasady konkursu”</b>) podanymi w Aplikacji.\n
+        <b>3.</b> Każdy z Uczestników może przesłać tylko jedno (1) zdjęcie konkursowe.\n
+        <b>4.</b> Uczestnik konkursu przesyłając zdjęcie oświadcza, że:\n
+        \u0020\u0020\u0020\u0020<b>a.</b> zgłoszona do Konkursu praca jest autorstwa Uczestnika i przysługuje mu do niej całość praw autorskich,\n
+        \u0020\u0020\u0020\u0020<b>b.</b> uczestnik posiada zgodę osób widniejących na przesłanie fotografii na rozpowszechnianie ich wizerunku\nw ramach konkursu oraz w materiałach promocyjnych związanych z konkursem, także podawanych do publicznej wiadomości na portalach internetowych Organizatora oraz wykorzystywanie ich\nw celach promocyjnych i marketingowych Organizatora,\n
+        \u0020\u0020\u0020\u0020<b>c.</b> zdjęcie nie łamie praw niemajątkowych i majątkowych osób trzecich.\n
+        <b>5.</b> W Konkursie może wziąć udział maksymalnie stu (100) Uczestników.\n
+        <b>6.</b> Celem konkursu jest wyłonienie jednego (1) Laureata.\n
+        <b>7.</b> Laureatem (<b>“Laureat”</b>) konkursu jest Uczestnik przesłanego zdjęcia\nz największą liczbą oddanych głosów przez innych użytkowników Aplikacji.\n
+        <b>8.</b> Laureat zostanie powiadomiony o wygranej pocztą elektroniczną\nw przeciągu 24 (dwudziestu czterech) godzin od zakończenia Konkursu,\nna wskazany przez niego w trakcie rejestracji konta na Aplikacji adres e-mail wraz z prośbą o przekazanie danych osobowych koniecznych do dostarczenia Nagrody.\n
+        <b>9.</b> Celem potwierdzenia woli przyjęcia Nagrody, powiadomiony Laureat powinien odpowiedzieć pocztą elektroniczną\nna adres wskazany przez Organizatora\nw terminie 3 (trzech) dni od dnia wysłania powiadomienia, pod rygorem utraty prawa do nagrody.\n
+        <b>10.</b> Uczestnik może zostać wykluczony z Konkursu w każdym czasie, w razie stwierdzenia przez Organizatora,\nże spełnia on którykolwiek z punktów\nw §6.\n
+        <b>11.</b> Wszelkie wątpliwości dotyczące zasad Konkursu, postanowień jego Regulaminu i interpretacji rozstrzyga Organizator.
+    </string>
+    <string name="regulation_contest_par_4" translatable="false"><b>§ 4.\nNagrody</b></string>
+    <string name="regulation_contest_par_4_content" translatable="false">
+        <b>1.</b> Fundatorem nagród w Konkursie jest Organizator\n
+        <b>2.</b> Nagrodą (<b>“Nagroda”</b>) w konkursie jest nagroda pieniężna w wysokości\n(stu złotych) 100,00 zł.\n
+        <b>3.</b> Nagroda zostanie wysłana w ciągu\n14 dni od dnia potwierdzenia woli przyjęcia Nagrody na konto bankowe wskazane przez Laureata.\n
+        <b>4.</b> Laureatom <b>nie przysługuje</b> prawo\ndo wymiany Nagrody\n
+        <b>5.</b> PODATEK?
+    </string>
+    <string name="regulation_contest_par_5" translatable="false"><b>§ 5.\nZasady wykluczenia</b></string>
+    <string name="regulation_contest_par_5_content" translatable="false">
+        <b>1.</b> Organizator zastrzega sobie prawo do wykluczenia Uczestnika z Konkursu w przypadku gdy zdjęcie przesłane przez Uczestnika zawiera treści:\n
+        \u0020\u0020\u0020\u0020<b>a.</b> pornograficzne,\n
+        \u0020\u0020\u0020\u0020<b>b.</b> nawołujące do przemocy,\n
+        \u0020\u0020\u0020\u0020<b>c.</b> przedstawiające spożywanie alkoholu, palenie papierosów lub używanie narkotyków,\n
+        \u0020\u0020\u0020\u0020<b>d.</b> godzące w uczucia religijne innych osób,\n
+        \u0020\u0020\u0020\u0020<b>e.</b> łamiące prawo,\n
+        \u0020\u0020\u0020\u0020<b>f.</b> nie związane z tematyką Konkursu,\n
+        \u0020\u0020\u0020\u0020<b>g.</b> odbiegające od Zasad konkursu.
+    </string>
+    <string name="regulation_contest_par_6" translatable="false"><b>§ 6.\nOchrona danych osobowych</b></string>
+    <string name="regulation_contest_par_6_content" translatable="false">
+        <b>1.</b> Uczestnicy Konkursu wyrażają zgodę na przetwarzanie przez Organizatora danych osobowych w celach marketingowych związanych\nz konkursem. Administratorem danych osobowych będzie Organizator. Przesłane dane osobowe:\n
+        \u0020\u0020\u0020\u0020<b>a.</b> nie będą sprzedawane jakimkolwiek innym podmiotom,\n
+        \u0020\u0020\u0020\u0020<b>b.</b> nie będą wykorzystywane w celach innych niż przewidziane przepisami prawa,\n
+        \u0020\u0020\u0020\u0020<b>c.</b> będą bezpiecznie przechowywane do czasu cofnięcia zgody na ich przetwarzanie.\n
+        <b>2.</b> Podanie przez Uczestnika danych osobowych jest dobrowolne,\njednakże odmowa podania danych skutkuje brakiem możliwości otrzymania Nagrody.\n
+        <b>3.</b> Uczestnikowi konkursu przysługuje prawo dostępu do danych osobowych,\nich zmiany (w tym aktualizacji) oraz usunięcia z bazy danych.
+    </string>
+    <string name="regulation_contest_par_7" translatable="false"><b>§ 7.\nReklamacje</b></string>
+    <string name="regulation_contest_par_7_content" translatable="false">
+        <b>1.</b> Reklamacje dotyczące Konkursu mogą być składane przez Uczestników do 14 dni licząc od ogłoszenia wyników Konkursu,\nw formie pisemnej, listem poleconym\nna adres Organizatora\nlub za pośrednictwem wiadomości e-mail wysłanej na adres adres e-mail.\n
+        <b>2.</b> Reklamacje winny wskazywać dane Uczestnika wnoszącego reklamację (imię, nazwisko, adres e-mail,\nadres korespondencyjny) oraz wskazanie jej przyczyn.\n
+        <b>3.</b> Skutecznie złożone reklamacje będą rozpatrywane w terminie 14 dni od daty otrzymania reklamacji, a zgłaszający reklamację Uczestnik zostanie powiadomiony o sposobie rozpatrzenia reklamacji (w zależności od drogi,\njaką złożył reklamację) listem poleconym lub za pośrednictwem wiadomości e-mail. Reklamacje rozpatruje Organizator.
+    </string>
+    <string name="regulation_contest_par_8" translatable="false"><b>§ 8.\nPostanowienia końcowe</b></string>
+    <string name="regulation_contest_par_8_content" translatable="false">
+        <b>1.</b> Przesyłając zdjęcie konkursowe Uczestnik akceptuje Regulamin.\n
+        <b>2.</b> Uczestnik może zrezygnować\nz udziału w Konkursie poprzez wysłanie wiadomości e-mail na adres: adres e-mail z informacją o takiej rezygnacji. Rezygnacja w przypadku Laureata, powoduje utratę prawa do przyznanej Nagrody, która pozostaje wówczas\ndo wyłącznej dyspozycji Organizatora.\n
+        <b>3.</b> Organizator zastrzega sobie prawo do zmiany Regulaminu w trakcie trwania Konkursu.\n
+        <b>4.</b> Wszelkie informacje na temat Konkursu Uczestnicy mogą uzyskać kontaktując się z przedstawicielami Organizatora pod adresem e-mail: adres e-mail
+    </string>
+    <string name="linkDoSklepu"><a href="https://gertamo.teetres.com/">Link do sklepu</a></string>
+    <string name="facebook"><a href="https://www.facebook.com/GertamoApp">GertamoAPP</a></string>
+    <string name="instagram"><a href="https://www.instagram.com/gertamo.app/">gertamo.app</a></string>
+    <string name="tik_tok"><a href="https://www.tiktok.com/@gertamo.app">gertamo.app</a></string>
+    <string name="sklep"><a href="https://gertamo.teetres.com/">Nasz sklep</a></string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

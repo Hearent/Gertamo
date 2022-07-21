@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Informacja">
+
+    <TextView
+        android:id="@+id/app_bar_log"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/app_bar"
+        android:text="GERTAMO"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/app_bar_log">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingRight="20dp">
+
+            <TextView
+                android:id="@+id/info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Witajcie, niestety mamy dla Was smutną wiadomość. Musimy wstrzymać działanie aplikacji. Jednak chcielibyśmy napisać coś od siebie. Aplikację tworzymy we dwóch i wielu zarzuca nam, że chcemy sprzedawać Wasze dane lub w jakiś inny sposób na nich lub waszych zdjęciach zarabiać, jednak to nie jest tak. Chcieliśmy stworzyć coś fajnego dla Was. Nie ukrywając z tyłu głowy tez myśleliśmy o zarobieniu na tym, ale to była rzecz drugorzędna. Zarabiać chcieliśmy przez współpracę z innymi markami oraz przez stworzenie własnego sklepu. Jednak z powodów prywatnych jesteśmy zmuszeni do zatrzymania działania aplikacji. Nie jesteśmy w stanie powiedzieć kiedy znowu ją uruchomimy. Mamy nadzieję, że będzie to jak najszybciej. Dziękujemy za wszystkie przesłane zdjęcia i za wszystkie polubienia. Dla nas każde zdjęcie było zwycięzkie! Trzyjamcie się! Możecie śledzić nasze profile na Facebooku (Gertamo) i Instagranie (gertamo.app), tam będziemy informować o przybliżonym czasie powrotu. W razie jakichkolwiek pytań możecie pisać na kontakt@gertamo.pl"
+
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/info"
+                android:text="Pozdrawiamy\nZespół Gertamo"
+                android:textSize="20dp" />
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

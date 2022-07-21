@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gertamo.gertamo.VersionErrActivity">
+
+    <TextView
+        android:id="@+id/tv_err"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:text="Dostępna jest nowa wersja aplikacji. Zainstaluj ją aby móc\nw pełni korzystać z aplikacji"
+        android:textColor="@color/app_bar"
+        android:layout_centerInParent="true"
+        android:textSize="25dp"
+        />
+
+    <Button
+        android:id="@+id/btn_err"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Przejdź do Sklepu Play"
+        android:layout_below="@id/tv_err"
+        android:layout_marginTop="10dp"
+        android:layout_centerInParent="true"
+        />
+</RelativeLayout>
